@@ -1,0 +1,38 @@
+{
+  "chunk50_ov10_k3": {
+    "recall@k": 0.74,
+    "mrr": 0.6233333333333333,
+    "contains_answer": 0.7,
+    "correctness": 0.84,
+    "faithfulness": 0.91,
+    "chunks": 645,
+    "minutes": 8.153033383687337
+  },
+  "chunk150_ov30_k3": {
+    "recall@k": 0.7,
+    "mrr": 0.5866666666666667,
+    "contains_answer": 0.6,
+    "correctness": 0.72,
+    "faithfulness": 0.93,
+    "chunks": 215,
+    "minutes": 10.070023147265116
+  },
+  "chunk400_ov50_k3": {
+    "recall@k": 0.74,
+    "mrr": 0.5866666666666667,
+    "contains_answer": 0.6,
+    "correctness": 0.73,
+    "faithfulness": 0.94,
+    "chunks": 75,
+    "minutes": 26.747875948746998
+  },
+  "chunk150_ov30_k5": {
+    "recall@k": 0.78,
+    "mrr": 0.6036666666666667,
+    "contains_answer": 0.64,
+    "correctness": 0.76,
+    "faithfulness": 0.93,
+    "chunks": 215,
+    "minutes": 12.117928286393484
+  }
+}
